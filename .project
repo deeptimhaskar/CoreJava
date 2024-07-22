@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
-<<<<<<< HEAD
 	<name>CoreJava</name>
 	<comment></comment>
 	<projects>
@@ -8,7 +7,10 @@
 	<buildSpec>
 	</buildSpec>
 	<natures>
-=======
+	</natures>
+</projectDescription>
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
 	<name>Core_Java</name>
 	<comment></comment>
 	<projects>
@@ -22,6 +24,5 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.jdt.core.javanature</nature>
->>>>>>> branch 'master' of https://github.com/deeptimhaskar/CoreJava.git
 	</natures>
 </projectDescription>
